@@ -5,3 +5,7 @@
 PyTorch implementation for Prompt and Refinement: Asymmetric Mutual Learning for Infrared Small Target Detection with Noisy Labels. (Under review)
 
 The code will be released upon acceptance.
+
+<p align="center">
+<img src=./istd_nl.png width="888">
+</p>
