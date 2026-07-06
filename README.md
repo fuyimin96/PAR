@@ -7,5 +7,5 @@ PyTorch implementation for Prompt and Refinement: Asymmetric Mutual Learning for
 The code will be released upon acceptance.
 
 <p align="center">
-<img src=./istd_nl.png width="888">
+<img src=./istd_nl.png width="666">
 </p>
